@@ -51,6 +51,11 @@ This project predicts customer churn using an **Artificial Neural Network (ANN)*
    pip install -r requirements.txt
    ```
 
+4. **Run the app**
+   ```sh
+   streamlit run app.py
+   ```
+
 ---
 
 ## 📊 **Dataset**
